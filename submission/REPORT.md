@@ -1,4 +1,3 @@
-%%writefile submission/REPORT.md
 # Lab 21 — Evaluation Report
 
 **Họ tên**: Đào Quốc Đại  
